@@ -1,0 +1,6 @@
+{
+  "name": "Daily Life Calculator",
+  "description": "A comprehensive calculator for daily tasks including standard arithmetic, shopping discounts, unit conversions, date differences, and financial planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
