@@ -1,20 +1,66 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# All-in-One Calculator
 
-# Run and deploy your AI Studio app
+A responsive web application that brings together 16 useful calculators for daily life, finance, tax planning, retirement planning, and unit conversions in one place.
 
-This contains everything you need to run your app locally.
+## Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/a5afb44e-a930-44c6-a468-1f165f8e47b5
+[Open the calculator](https://pawankalhansh.github.io/All_In_One_Calculator/)
+
+## Features
+
+- Basic Calculator
+- EMI / Loan Calculator
+- Interest Calculator
+- Discount Calculator
+- Tip & Split Calculator
+- Income Tax Calculator
+- GST Calculator
+- SIP Calculator
+- Lump Sum Calculator
+- Mutual Fund Calculator
+- Goal Planner
+- NPS / Pension Calculator
+- Retirement Need Calculator
+- EPFO / PF Calculator
+- BMI Calculator
+- Age Calculator
+- Currency Converter
+- Fuel Calculator
+- Unit Converter
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- CSS / Tailwind CSS
+- GitHub Pages for deployment
+
+## Highlights
+
+- Clean and responsive UI
+- Multiple calculators in one app
+- Useful for Indian users with tax, GST, PF, and pension related tools
+- Fast static deployment using GitHub Pages
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+### Prerequisites
+- Node.js
+- npm
 
+### Setup
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm install
+npm run dev
+```
+
+## Deployment
+
+This project is deployed using GitHub Pages.
+
+## Author
+
+**Pawan Kalhansh**  
+GitHub: [pawankalhansh](https://github.com/pawankalhansh)
