@@ -43,23 +43,6 @@ A responsive web application that brings together 16 useful calculators for dail
 - Useful for Indian users with tax, GST, PF, and pension related tools
 - Fast static deployment using GitHub Pages
 
-## Run Locally
-
-### Prerequisites
-- Node.js
-- npm
-
-### Setup
-
-```bash
-npm install
-npm run dev
-```
-
-## Deployment
-
-This project is deployed using GitHub Pages.
-
 ## Author
 
 **Pawan Kalhansh**  
